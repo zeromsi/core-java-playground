@@ -26,7 +26,7 @@ Here theres's two identifiers, ```String``` and ```x```.
 
 Roles for defining Java identifier,
 
-#### Only allowed characters in java identifiers are,
+1. Only allowed characters in java identifiers are,
 - A-Z
 - a-z
 - 0-9
@@ -34,26 +34,25 @@ Roles for defining Java identifier,
 -$
 If we use any other chars, we'll get compile time ```error```
 
-#### Identifiers can not start with digit
+2. Identifiers can not start with digit
 
 ```total123``` is valid but ```123Total``` is not valid.
 
-#### Java identifiers are case sensative as java is a case sensative programming language.
+3. Java identifiers are case sensative as java is a case sensative programming language.
 
-#### There's no length limit for java identifiers
+4. There's no length limit for java identifiers
 
-#### We can't use reserved words as identifiers.
+5. We can't use reserved words as identifiers.
 For example,
 
 ``` int if=12;``` is not valid as ```if ``` is a reserved word. It'll through compile time error.
-#### Predefined class name and interface name can be use as identifiers but it is not recommended.
+6. Predefined class name and interface name can be use as identifiers but it is not recommended.
 
 For example,
 
-``` int RUnnable=5;```
+``` int Runnable=5;```
 It's not gonna through any error or exception.
-
-#### 
+ 
 
 
 

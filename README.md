@@ -124,6 +124,74 @@ List of ```reserved literals```
 - false
 - null
 
+### Data types
+Theres 8 data type,
+- byte
+- short
+- int
+- long
+- float
+- double
+- boolean
+- char
+
+### Flow control keywords
+There's 11 flow control keywords.
+- if
+- else
+- switch
+- case 
+- default
+- do
+- while
+- for
+- break
+- continue
+- return 
+
+### modifiers keywords
+There's 11 modifiers in java , including ```default``` , the number is 12.
+- public
+- private
+- default
+- protected
+- static
+- final
+- abstract
+- synchronized
+- native
+- strictfp
+- transient
+- volatile
+
+
+### Exception handling keywords
+There's 6 exception handling keywords,
+
+- try
+- catch
+- throw
+- throws
+- finnaly
+- assert
+
+### Class related keywords
+There's 6 Class related keywords,
+- class
+- interface
+- extends
+- implements
+- package
+- import
+
+### Object related keywords
+There's 4 Object related keywords,
+
+- new
+- instanceof
+- super
+- this
+
 
 
 

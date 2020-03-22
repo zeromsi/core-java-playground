@@ -177,6 +177,7 @@ There's 6 exception handling keywords,
 
 ### Class related keywords
 There's 6 Class related keywords,
+
 - class
 - interface
 - extends
@@ -191,6 +192,16 @@ There's 4 Object related keywords,
 - instanceof
 - super
 - this
+
+### Return type keyword
+There's 4 Return type keywords,
+
+- void
+
+### enum keywords
+There's 4 enum type keywords,
+
+-enum
 
 
 

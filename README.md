@@ -54,6 +54,76 @@ For example,
 It's not gonna through any error or exception.
  
 
+### Reserved words
+
+In java theres only ```53``` reserved words. Reserved words are there to represent meaning of functionality.
+
+From these ```53``` there's ```50``` ```keywords``` and ```3``` ```Literals```.  
+
+What is a ```Keyword```?
+If the ```reserved``` words represents any functionality, then it's a ```keyword```.
+From these ```50``` ```keywords``` ```48``` are ```used keyword```.
+List of ```unused keyword```
+- goto
+- const
+
+List of ```used keywords```
+- abstract	
+- assert	
+- boolean
+- break
+- byte
+- case
+- catch
+- char
+- class
+- continue
+- default
+- do	
+- double
+- else
+- enum
+- extends
+- final
+- finally
+- float
+- for
+- if
+- implements
+- import
+- instanceof
+- int
+- interface
+- long
+- native
+- new
+- package
+- private
+- protected
+- public
+- return
+- short
+- static
+- strictfp
+- super
+- switch
+- synchronized
+- this
+- throw
+- throws
+- transient
+- try
+- void
+- volatile
+- while
+
+What is a ```literal```?
+If the ```reserved``` words represents any value, then it's a ```literal```
+List of ```reserved literals```
+- true
+- false
+- null
+
 
 
 

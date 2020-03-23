@@ -200,10 +200,33 @@ There's 4 Return type keywords,
 
 ### enum keywords
 There's 4 enum type keywords,
-
 -enum
 
+### Data types
+Java languange is strongly typed language. Every variable and expression must have some type.
 
+Java is not a pure oo language as, 
+- there are primitive data types (8), int, double, long, byte, short, float,double,boolean, char.
+- java doesn't support operator overloading.
+- there is no support of multiple inheritance.
+
+Peimitive data type's are divided into 2 parts, numeric and non-numeric. 
+
+Non-numeric primitive data types,
+- char
+- boolean
+
+numeric data types are divided into further 2 sections,integral and floating point.
+
+Integral data types,
+- byte (singed; positive and negative, 1 byte (8 bits), range: -128 to 127
+- short ( signed; 2 bytes(16 bits), range: - 32768 to 32767
+- int (signed; 4 bytes(32 bits), range: -2,147,483,648 to 2,147,483, 647
+- long (signed; 8 bytes(64 bits), range: 	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+Floating point data types,
+- double
+- float
 
 
 

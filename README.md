@@ -228,6 +228,8 @@ Floating point data types,
 - double ( 8 bytes (64 bits), range: ±1.79769313486231570E+308 , we want 14-15 decimal places,double precicion) 
 - float ( 4 bytes (32 bits), range:,-1.7X10^38 to 1.7X10^38, we want 5-6 decimal places, single precicion)
 
+```Note```:  ```null``` is only applicable for object type. It is the default value of object reference. we can't use it for primitives.
+
 
 
 

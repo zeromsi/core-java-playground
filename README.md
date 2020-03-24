@@ -213,20 +213,20 @@ Java is not a pure oo language as,
 Peimitive data type's are divided into 2 parts, numeric and non-numeric. 
 
 Non-numeric primitive data types,
-- char
-- boolean
+- char ( size: 2 bytes as it is unicode basis (2 bytes, 0 to 65536 options, java supports all language chars ), in c or c++ it is 1 byte as they are ascii char based (1 byte, 0 to 256 options) only) 
+- boolean (size n/a as it depends on VM; Java boolean throughs compile time error for 0 and 1, it can only hold true or false)
 
 numeric data types are divided into further 2 sections,integral and floating point.
 
 Integral data types,
-- byte (singed; positive and negative, 1 byte (8 bits), range: -128 to 127
-- short ( signed; 2 bytes(16 bits), range: - 32768 to 32767
-- int (signed; 4 bytes(32 bits), range: -2,147,483,648 to 2,147,483, 647
-- long (signed; 8 bytes(64 bits), range: 	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+- byte (singed; positive and negative, 1 byte (8 bits), range: -128 to 127)
+- short ( signed; 2 bytes(16 bits), range: - 32768 to 32767)
+- int (signed; 4 bytes(32 bits), range: -2,147,483,648 to 2,147,483, 647)
+- long (signed; 8 bytes(64 bits), range: 	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
 
 Floating point data types,
-- double
-- float
+- double ( 8 bytes (64 bits), range: ±1.79769313486231570E+308 , we want 14-15 decimal places,double precicion) 
+- float ( 4 bytes (32 bits), range:,-1.7X10^38 to 1.7X10^38, we want 5-6 decimal places, single precicion)
 
 
 

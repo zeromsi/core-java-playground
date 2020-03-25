@@ -232,5 +232,49 @@ Floating point data types,
 
 
 
+### Java literals
+
+Literal is a constant assigned to the variable. 
+
+```
+int a= 10;
+```
+Here,
+
+``` int ``` -----> Data type
+``` a ```  -----> identifier/variable
+``` = ``` -----> operator
+``` 10 ``` -----> constant (Literal)
+``` ; ``` -----> Specific symbol/ terminator
+
+Java provided the following literals,
+
+#### Integral/ Integer literals
+ byte, short, int, long --> 10,20
+ char --> 'a','b'
+
+#### Floating point literals
+ float --> 22.12f, 23.34f
+ double --> 2324.234,23434.3435D
+
+#### Boolean Literal
+ boolean --> true, false
+
+#### String literal
+String --> "abc", "10","true"
+
+To improve readability in Literals, java 7 supports a special notation '_' 
+
+For example, 
+
+```
+double d=123456789.234;
+```
+You can write the above double declaration like following,
+
+```
+double d=12_34_56_789.334;  (12 core, 34 lakh,56 thousand, 789.234)
+```
+
 
 
